@@ -1,0 +1,29 @@
+# MATLAB autosave files
+*.asv
+*.m~
+
+# Compiled MEX binaries
+*.mex*
+
+# MATLAB workspace files
+*.mat
+*.fig
+*.mlx~
+*.slxc
+
+# Simulink generated files
+slprj/
+sccprj/
+codegen/
+
+# MATLAB app/toolbox packages
+*.mlappinstall
+*.mltbx
+
+# Help search folders
+helpsearch*/
+
+# Other common MATLAB temp files
+*.bak
+*.rpt
+*.log
